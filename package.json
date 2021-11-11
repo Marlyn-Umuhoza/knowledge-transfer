@@ -2,8 +2,8 @@
   "name": "mdiwebsite",
   "version": "1.0.0",
   "description": "",
-  "main": "home.html",
+  "main": "index.js",
   "scripts": {
-    "devStart": "node index.js"
-  }
+    "devStart": "node index.js",
+  },
 }
