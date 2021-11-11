@@ -4,6 +4,6 @@
   "description": "",
   "main": "home.html",
   "scripts": {
-    "devStart": "nodemon index.js"
+    "devStart": "node index.js"
   }
 }
